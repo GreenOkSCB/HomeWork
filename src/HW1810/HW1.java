@@ -88,7 +88,7 @@ public class HW1 {
 //            System.out.println(iRemain);
 //            System.out.println(iiRR);
 //        }
-
+//
 //        double v = i / y;  // payInYear
 //        double oP1 = (i * p) / 100;       // overPayment in first year
 //        double iRemain1 = i - v;  // остаток ипотеки после первого года
