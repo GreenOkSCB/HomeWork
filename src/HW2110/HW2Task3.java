@@ -1,6 +1,6 @@
 package HW2110;
 
-public class HW2Task2 {
+public class HW2Task3 {
     public static void main(String[] args) {
         /*Задача 3*
             Создайте программу, выводящую на экран первые
