@@ -1,6 +1,6 @@
 package HW2610.calculator;
 
-public class Plus implements Operation {
+public class Plus extends Operation {
     public Plus(int a, int b) {
     }
     @Override

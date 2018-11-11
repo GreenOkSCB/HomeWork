@@ -1,6 +1,6 @@
 package HW2610.calculator;
 
-public class Umnojenie implements Operation {
+public class Umnojenie extends Operation {
     public Umnojenie(int a, int b) {
     }
     @Override

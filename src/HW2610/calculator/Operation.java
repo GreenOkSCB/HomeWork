@@ -1,6 +1,6 @@
 package HW2610.calculator;
 
-public interface Operation{
-          int execute(int a, int b);
+public abstract class Operation{
+          abstract int execute(int a, int b);
     }
 
